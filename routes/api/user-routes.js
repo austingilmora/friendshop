@@ -2,7 +2,8 @@ const router = require('express').Router();
 const {
     addUser,
     getAllUsers,
-    getUserById
+    getUserById,
+    updateUser
 } = require('../../controllers/user-controller');
 
 router
@@ -13,5 +14,6 @@ router
 router
     .route('/:id')
     .get(getUserById)
+    .put(updateUser)
 
 module.exports = router;
