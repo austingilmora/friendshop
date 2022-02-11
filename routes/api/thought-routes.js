@@ -12,9 +12,6 @@ router
     .get(getAllThoughts)
     .post(addThought)
 
-// router
-//     .route('/:userId')
-//     .post(addThought)
 
 router
     .route('/:thoughtId')
