@@ -19,8 +19,11 @@
 
   To see the CRUD operations demonstrated on Insomnia, you can access these links:
     * User Routes: https://watch.screencastify.com/v/Oj2FJOCYogCDffuNgGKF
+    
     * Thought Routes: https://watch.screencastify.com/v/0Ilc1tl45bwEpB7vTRxf
+    
     * Friend Routes: https://watch.screencastify.com/v/DpttRouIgzDt8DF9d1eG
+    
     * Reaction Routes (with BONUS!): https://watch.screencastify.com/v/YItsYaqL7Yxwlg47E0Iw
   
 ## Contributing
